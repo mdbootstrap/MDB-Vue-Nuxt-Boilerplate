@@ -1,10 +1,8 @@
-<div align="center">
 # MDB Vue + Nuxt.js
-</div>
 
 <div align="center">
 <br>
-<img width="350" src="./assets/logo.png" alt="mdbvue-nuxt">
+<img width="250" src="./assets/logo.png" alt="mdbvue-nuxt">
 <br>
 <br>
 </div>
