@@ -1,5 +1,6 @@
-
+<div align="center">
 # MDB Vue + Nuxt.js
+</div>
 
 <div align="center">
 <br>
@@ -38,9 +39,21 @@ You can easily upgrade **mdbvue** dependency:
 
 2. Open **package.json** file
 
-3. Replace the following line: **"mdbvue": "^version"** with **"mdbvue": "git+https://oauth2:YOUR_TOKEN@git.mdbootstrap.com/mdb/vue/vu-pro.git**
+3. Replace the following line: 
 
-4. $ npm install
+```json
+"mdbvue": "^version"
+```
+ with 
+
+ ```json
+ "mdbvue": "git+https://oauth2:YOUR_TOKEN@git.mdbootstrap.com/mdb/vue/vu-pro.git"
+ ```
+4.
+```bash
+ $ npm install
+
+```
 
 ## Learn more about MDB Vue:
 
