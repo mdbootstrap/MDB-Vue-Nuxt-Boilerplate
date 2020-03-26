@@ -29,13 +29,13 @@ $ npm run generate
 
 ## MDB Pro 
 
-Are you a MDB **Pro** user with Gitlab access?
+Are you a MDB **Pro** user with the Gitlab access?
 
-You can easily upgrade **mdbvue** dependency:
+You can easily upgrade the **mdbvue** dependency:
 
 1. Generate a Gitlab access token. Not sure how to do that? Learn more [here](https://mdbootstrap.com/docs/vue/getting-started/quick-start/#token)
 
-2. Open **package.json** file
+2. Open the **package.json** file
 
 3. Replace the following line: 
 
@@ -47,7 +47,7 @@ You can easily upgrade **mdbvue** dependency:
  ```json
  "mdbvue": "git+https://oauth2:YOUR_TOKEN@git.mdbootstrap.com/mdb/vue/vu-pro.git"
  ```
-4.
+4. In your console run:
 ```bash
  $ npm install
 
