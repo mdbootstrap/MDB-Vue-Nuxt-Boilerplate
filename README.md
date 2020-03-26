@@ -2,7 +2,7 @@
 
 <div align="center">
 <br>
-<img width="250" src="./assets/logo.png" alt="mdbvue-nuxt">
+<img width="300" src="./assets/logo.png" alt="mdbvue-nuxt">
 <br>
 <br>
 </div>
